@@ -2,7 +2,7 @@ server:
   port: 8080
 spring:
   application:
-    name: reggie_take_out
+    name: order_takeout
   redis:
     host: 192.168.124.129
     port: 6379
